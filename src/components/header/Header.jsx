@@ -50,7 +50,7 @@ const Header = () => {
                   <FaLocationDot size={14} />
                 </span>
                 <p className="info-item-text">
-                  Location: <span className="text">Charlotte, NC, USA</span>
+                  Location: <span className="text">Raleigh, NC, USA</span>
                 </p>
               </li>
               <li className="grid items-start info-item">
