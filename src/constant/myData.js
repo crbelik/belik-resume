@@ -26,7 +26,7 @@ const DATA = {
         info: "Raleigh, NC",
       },
       description:
-        "I built websites to match each client’s unique needs, making sure the design and features fit perfectly. By working with Figma mockups, I crafted engaging layouts and used Bootstrap HTML/CSS to keep everything user-friendly. I also showed clients how to handle web hosting to maintain their sites, so they felt confident managing everything on their own.",
+        "Built websites to match each client’s unique needs, making sure the design and features fit perfectly. By working with Figma mockups, I crafted engaging layouts and used Bootstrap HTML/CSS to keep everything user-friendly. I also showed clients how to handle web hosting to maintain their sites, so they felt confident managing everything on their own.",
       links: [],
     },
   ],
@@ -86,7 +86,7 @@ const DATA = {
       id: "skill_6",
       icon: SkillPandas,
       name: "Pandas",
-      description: "data manipulation, visualization and analysis",
+      description: "Data manipulation, visualization and analysis",
     },
     {
       id: "skill_7",

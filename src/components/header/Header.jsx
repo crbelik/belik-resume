@@ -42,7 +42,7 @@ const Header = () => {
                   <FaPhone size={13} />
                 </span>
                 <p className="info-item-text">
-                  Phone: <span className="text">(919)454-5551</span>
+                  Phone: <span className="text">(919) 454-5551</span>
                 </p>
               </li>
               <li className="grid items-start info-item">
