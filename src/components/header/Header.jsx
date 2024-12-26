@@ -58,21 +58,39 @@ const Header = () => {
                   <FaLink size={14} />
                 </span>
                 <p className="info-item-text">
-                  Projects: <span className="text">https://github.com/crbelik</span>
+                  Projects:{" "}
+                  <span className="text">
+                    <a href="https://github.com/crbelik">
+                      https://github.com/crbelik
+                    </a>
+                  </span>
+                </p>
+              </li>
+              <li className="grid items-start info-item">
+                <span className="info-item-icon">
+                  <FaLink size={14} />
+                </span>
+                <p className="info-item-text">
+                  Resume:{" "}
+                  <span className="text">
+                    <a href="https://drive.google.com/file/d/1hkpgGn7QfyC6O2ZKRz2pVWK256Nz6GFR/view?usp=sharing">
+                      View Resume
+                    </a>
+                  </span>
                 </p>
               </li>
             </ul>
             <ul className="contact-social-list flex items-center">
-                <li className="social-item">
-                    <a
-                    href="https://www.linkedin.com/in/collin-belik/"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    >
-                      <img src={Linkedin} alt="LinkedIn Link" />
-                      <span className="tooltip text">Linkedin</span>
-                    </a>
-                </li>
+              <li className="social-item">
+                <a
+                  href="https://www.linkedin.com/in/collin-belik/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <img src={Linkedin} alt="LinkedIn Link" />
+                  <span className="tooltip text">Linkedin</span>
+                </a>
+              </li>
             </ul>
           </div>
         </div>
