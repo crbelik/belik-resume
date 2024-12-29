@@ -60,7 +60,11 @@ const Header = () => {
                 <p className="info-item-text">
                   Projects:{" "}
                   <span className="text">
-                    <a href="https://github.com/crbelik">
+                    <a
+                      href="https://github.com/crbelik"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
                       https://github.com/crbelik
                     </a>
                   </span>
@@ -73,7 +77,11 @@ const Header = () => {
                 <p className="info-item-text">
                   Resume:{" "}
                   <span className="text">
-                    <a href="https://drive.google.com/file/d/1hkpgGn7QfyC6O2ZKRz2pVWK256Nz6GFR/view?usp=sharing">
+                    <a
+                      href="https://drive.google.com/file/d/1hkpgGn7QfyC6O2ZKRz2pVWK256Nz6GFR/view?usp=sharing"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
                       View Resume
                     </a>
                   </span>
