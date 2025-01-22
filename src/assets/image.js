@@ -24,6 +24,7 @@ import SkillDjango from "./images/skill_django.png";
 import Udemy from "./images/udemy.png";
 import Coursera from "./images/coursera.png";
 import Codecademy from "./images/codecademy.png";
+import CIcon from "./images/C_icon.png";
 
 
 
@@ -54,4 +55,5 @@ export {
   SkillDjango,
   Udemy,
   Coursera,
+  CIcon,
 };

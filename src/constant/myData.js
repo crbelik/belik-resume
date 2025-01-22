@@ -11,6 +11,7 @@ import {
   SkillPandas,
   SkillDjango,
   SkillAws,
+  CIcon,
 } from "../assets/image";
 
 const DATA = {
@@ -21,7 +22,7 @@ const DATA = {
       endDate: "2024",
       position: "Professional development",
       company: {
-        logo: DiamondLgBlue,
+        logo: CIcon,
         name: "Career Break",
         info: "Raleigh, NC",
       },
