@@ -17,7 +17,21 @@ const DATA = {
   professionalExperiences: [
     {
       id: "prof_exp_1",
-      startDate: "Jul 2017",
+      startDate: "2022",
+      endDate: "2024",
+      position: "Professional development",
+      company: {
+        logo: DiamondLgBlue,
+        name: "Career Break",
+        info: "Raleigh, NC",
+      },
+      description:
+        "I took this opportunity to advance my education and strengthen my expertise, moving from a front-end and UI/UX focus toward becoming a full-stack developer. By dedicating time to specialized coursework, I've been honing my back-end programming skills to complement my existing front-end experience.",
+      links: [],
+    },
+    {
+      id: "prof_exp_2",
+      startDate: "2017",
       endDate: "2022",
       position: "Web Developer",
       company: {
